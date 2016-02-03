@@ -2,9 +2,9 @@ VERSION 5.00
 Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} QAQC_New 
    Caption         =   "QAQC_New"
    ClientHeight    =   6855
-   ClientLeft      =   45
-   ClientTop       =   375
-   ClientWidth     =   6210
+   ClientLeft      =   48
+   ClientTop       =   372
+   ClientWidth     =   6204
    OleObjectBlob   =   "QAQC_New.frx":0000
    StartUpPosition =   1  'CenterOwner
 End

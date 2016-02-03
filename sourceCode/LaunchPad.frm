@@ -2,9 +2,9 @@ VERSION 5.00
 Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} LaunchPad 
    Caption         =   "The LaunchPad"
    ClientHeight    =   9660
-   ClientLeft      =   45
+   ClientLeft      =   48
    ClientTop       =   16380
-   ClientWidth     =   13605
+   ClientWidth     =   13608
    OleObjectBlob   =   "LaunchPad.frx":0000
    ShowModal       =   0   'False
 End
